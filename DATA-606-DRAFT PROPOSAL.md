@@ -55,12 +55,12 @@ Propaganda based news detection and classification is one of the challenging tas
 
 * User should upload the data.
 * User should be able to see the classified results.
-* The proper user interface should be provided in web application.
+* The proper user interface should be provided in web based prototype.
 
 2. Non - Functional Requirements
 
 * Deep learning model for detection should be accurate.
-* The application should be user friendly.
+* The prototype should be user friendly.
 
 
  ## METHODOLOGY:
@@ -75,13 +75,13 @@ Propaganda based news detection and classification is one of the challenging tas
 ## MODEL SELECTION: 
 
 * Prediction will be done considering the best performed model.
-* Building a web application for the prediction of price of a used car based on the features and specifications of the car.
+* Building a prototype for the predictive model using deep learning or machine learning which can classify the propaganda news.
 
 
 
 ## OUTCOMES
 
-* User friendly web application.
+* User friendly pipeline prototype.
 * Application should properly classify propaganda news from the trained domain of data.
 * The deep learning model should be efficient and accurate
 
@@ -97,10 +97,10 @@ Propaganda based news detection and classification is one of the challenging tas
 ### Seshadivya Batlanki:
 
 * Data Modeling
-* Simulating different prediction models
-* Model comparison and Cross validating the results
-* Finding a best fit model for prediction
-* Developing a web design for user friendly prediction
+* Simulating different prediction models.
+* Model comparison and Cross validating the results.
+* Finding a best fit model for prediction.
+* Developing a web prototype for user friendly prediction models.
 
 ### Benefits:
 Along with our respective duties, we shall support one another's efforts to complete the project successfully. we will learn about collaboration, which would be handy for real time work. To advance the project and get around obstacles, we hold frequent discussions.
