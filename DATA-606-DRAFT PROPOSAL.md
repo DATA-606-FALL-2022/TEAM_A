@@ -102,4 +102,7 @@ Propaganda based news detection and classification is one of the challenging tas
 * Finding a best fit model for prediction
 * Developing a web design for user friendly prediction
 
-Along with our respective duties, we shall support one another's efforts to complete the project successfully. To advance the project and get around obstacles, we hold frequent discussions.
+### Benefits:
+Along with our respective duties, we shall support one another's efforts to complete the project successfully. we will learn about collaboration, which would be handy for real time work. To advance the project and get around obstacles, we hold frequent discussions.
+With this project, we hope to gain knowledge on how to use a machine learning, a project from start to finish while applying feature engineering, working on various categorization models, and evaluating them.
+
