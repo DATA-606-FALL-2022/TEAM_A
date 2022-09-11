@@ -37,7 +37,7 @@ Though propaganda news classification is not a recent topic, but is an important
 
 ## DATASET 
 
-The dataset comprises data extracted from https://zenodo.org/record/3271522#.Yxg-FuxN2SV .This project aims to build an efficient web application for users which can classify the propaganda based news and articles from the actual ones.
+The dataset comprises data extracted from https://zenodo.org/record/3271522#.Yxg-FuxN2SV .This project aims to build an efficient web based prototype for users which can classify the propaganda based news and articles from the actual ones.
 
 
 ## PRIMARY UNIT OF ANALYSIS
