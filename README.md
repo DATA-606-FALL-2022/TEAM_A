@@ -4,6 +4,6 @@
 This project is dedicated to doing some cool data analysis, visualization,eda and modeling using ML and Deep learning models.
 ## Repo Contents
   <li><b>Data:</b>This folder  contains  data sets used in our project and origin of data
-    https://drive.google.com/drive/folders/1wQHY3DJwhhGTK4lHtWmVks33P4X-p-tb?usp=sharing
-    https://zenodo.org/record/3271522#.Yxg-FuxN2SV.
+  <li> https://drive.google.com/drive/folders/1wQHY3DJwhhGTK4lHtWmVks33P4X-p-tb?usp=sharing</li>
+   <li> https://zenodo.org/record/3271522#.Yxg-FuxN2SV.</li>
   </li>
