@@ -81,8 +81,7 @@ Propaganda based news detection and classification is one of the challenging tas
 
 ## OUTCOMES
 
-* User friendly pipeline prototype.
-* Application should properly classify propaganda news from the trained domain of data.
+
 * The deep learning model should be efficient and accurate
 
 ## TEAM RESPONSIBILITIES
@@ -100,7 +99,6 @@ Propaganda based news detection and classification is one of the challenging tas
 * Simulating different prediction models.
 * Model comparison and Cross validating the results.
 * Finding a best fit model for prediction.
-* Developing a web prototype for user friendly prediction models.
 
 ### Benefits:
 Along with our respective duties, we shall support one another's efforts to complete the project successfully. we will learn about collaboration, which would be handy for real time work. To advance the project and get around obstacles, we hold frequent discussions.
