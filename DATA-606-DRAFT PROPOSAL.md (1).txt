@@ -24,7 +24,6 @@ Though propaganda news classification is not a recent topic, but is an important
 
 ## RESEARCH QUESTIONS:
 
-
 1.  Why it is required to detect propaganda based news?
 
 2.	Which deep learning model can be used for efficient classification of propaganda based news?
