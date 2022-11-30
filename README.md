@@ -37,3 +37,8 @@ This project is dedicated to doing some cool data analysis, visualization,eda an
 
 ### DATASET:
 The dataset comprises data extracted from https://zenodo.org/record/3271522#.Yxg-FuxN2SV .This project aims to build an efficient web based prototype for users which can classify the propaganda based news and articles from the actual ones.
+
+### Primary Unit of Analysis:
+Propaganda based news detection and classification is one of the challenging task.
+<li>(1) Because it is written for a particular purpose and particular group of people and</li>
+<li>(2)Because of similar use of context and linguistic features written for normal news as well. To solve these problems, this project aims to build an efficient web application where user can do a check whether the article, news is based on propaganda or not.</li>
