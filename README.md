@@ -11,14 +11,14 @@ This project is dedicated to doing some cool data analysis, visualization,eda an
 ## TEAM MEMBERS
 <li>Sonia Sonia</li>
 <li>Seshadivya Batlanki</li>
-## PR:
+## PROJECT OVERVIEW :
+<li>ABSTRACT 
 <li>INTRODUCTION
-<li>BUSINESS PROBLEM
-<li>BUSINESS CONSTRAINTS
-<li>DATASET
+<li>LITERATURE REVIEW
+<li>PROPOSED METHODOLOGY
+<li>DATA SET
+<li>EDA
+<li>MODELS
 <li>MACHINE LEARNING MODELS USED
-<li>METRICS USED
-<li>MODEL RESULTS
-<li>WEB APPLICATION
 <li>FUTURE WORK
 <li>REFERENCES
