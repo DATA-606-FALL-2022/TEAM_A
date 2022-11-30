@@ -10,5 +10,4 @@ This project is dedicated to doing some cool data analysis, visualization,eda an
 <li>Video link:https://youtu.be/wyj-9mT6p8A</li>
 ## TEAM MEMBERS
 <li>Sonia Sonia</li>
-
 <li>Seshadivya Batlanki</li>
