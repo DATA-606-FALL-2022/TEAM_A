@@ -84,3 +84,8 @@ Propaganda based news detection and classification is one of the challenging tas
 * Simulating different prediction models.
 * Model comparison and Cross validating the results.
 * Finding a best fit model for prediction.
+
+### Conclusion and Future works:
+Given the impact this unregulated content has on society, the significance of spotting propaganda is clear. This study intends to develop a system for identifying propaganda utilizing a convolution LTSM Bases Deep Learning Model network. To anticipate accurately, the neural network trains itself over many iterations. This model's efficiency in testing was 97.58% after processing a dataset of more than 52k+ news articles. To demonstrate that the proposed system is superior to the n-gram models, a comparison study is conducted.
+The analysis of propaganda project has a promising future. It can be extended to include categorizing the test piece according to the kinds of propaganda strategies employed. It will improve the model's specificity, broadening its application. In social media and other online platforms where there is a high risk of fake news, propaganda detection can be employed to prevent swaying public opinion for private advantage. To preserve original viewpoints in society and uphold the democratic ideal, news policing will be automated.
+
