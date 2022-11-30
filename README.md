@@ -34,5 +34,6 @@ This project is dedicated to doing some cool data analysis, visualization,eda an
   <li>Which deep learning model can be used for efficient classification of propaganda based news?</li>
   <li>How to create web application that can handle large dataset with proper data structure format?</li>
   <li>Does contextual and linguistic features matter for such news classification?</li>
+
 ### DATASET:
 The dataset comprises data extracted from https://zenodo.org/record/3271522#.Yxg-FuxN2SV .This project aims to build an efficient web based prototype for users which can classify the propaganda based news and articles from the actual ones.
