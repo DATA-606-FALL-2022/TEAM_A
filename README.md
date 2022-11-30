@@ -8,9 +8,10 @@ This project is dedicated to doing some cool data analysis, visualization,eda an
    <li> https://zenodo.org/record/3271522#.Yxg-FuxN2SV.</li>
   <li>Link to the PPT:https://docs.google.com/presentation/d/1K-DRitsWeXgu9it_Uy2zd_ajrpe3IBVIpLaZRgy--5M/edit#slide=id.g17d5c09ff22_1_38
 <li>Video link:https://youtu.be/wyj-9mT6p8A</li>
+ 
  ### TEAM MEMBERS
-<li>Sonia Sonia</li>
-<li>Seshadivya Batlanki</li>
+<li><b>Sonia Sonia</b></li>
+<li><b>Seshadivya Batlanki</b></li>
 
  ### PROJECT OVERVIEW :
 <li>ABSTRACT 
