@@ -42,3 +42,14 @@ The dataset comprises data extracted from https://zenodo.org/record/3271522#.Yxg
 Propaganda based news detection and classification is one of the challenging task.
 <li>(1) Because it is written for a particular purpose and particular group of people and</li>
 <li>(2)Because of similar use of context and linguistic features written for normal news as well. To solve these problems, this project aims to build an efficient web application where user can do a check whether the article, news is based on propaganda or not.</li>
+
+### FEATURE SELECTION:
+* Functional Requirements
+* User should upload the data.
+* User should be able to see the classified results.
+* The proper user interface should be provided in web based prototype.
+* Non - Functional Requirements
+ * Deep learning model for detection should be accurate.
+ * The prototype should be user friendly.
+
+### METHODOLOGY:
