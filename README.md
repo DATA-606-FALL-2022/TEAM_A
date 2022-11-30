@@ -53,3 +53,30 @@ Propaganda based news detection and classification is one of the challenging tas
  * The prototype should be user friendly.
 
 ### METHODOLOGY:
+* Selection of high-quality input data.
+* Pre-processing, and creation of clean data.
+* Implementation of contextual and other embeddings.
+* Implementation of neural models using LSTM, attention, BERT, etc. models
+* Validation of model using log loss and f1, precision, recall, auc_roc scores
+* End to end pipeline creation for prediction of translated language at real time.
+
+### MODEL SELECTION:
+* Prediction will be done considering the best performed model.
+* Building a prototype for the predictive model using deep learning or machine learning which can classify the propaganda news.
+
+### OUTCOME:
+* The deep learning model should be efficient and accurate:
+
+### TEAM RESPONSIBILITIES
+
+#### Sonia Sonia:
+* Data collection and dataset extraction.
+* Initial Cleaning of the data.
+* Exploratory Data Analysis.
+* Performing Regression analysis.
+
+#### Seshadivya Batlanki:
+ * Data Modeling
+* Simulating different prediction models.
+* Model comparison and Cross validating the results.
+* Finding a best fit model for prediction.
