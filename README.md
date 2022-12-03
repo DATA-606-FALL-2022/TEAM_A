@@ -45,6 +45,17 @@ The dataset comprises data extracted from https://zenodo.org/record/3271522#.Yxg
 ![Alt text](https://github.com/DATA-606-FALL-2022/TEAM_A/blob/main/images/download.png)
 ![Alt text](https://github.com/DATA-606-FALL-2022/TEAM_A/blob/main/images/download%20(1).png)
 
+### Data Cleaning and Text-Pre-Processing
+ Below are the steps being performed as a part of text preprocessing.
+* 1.Lowercasing each row
+* 2.Deconstruction of English words (ex: can’t – cannot)
+* 3.Removal of special characters and punctuations
+* 4.Removal of numbers and digits
+* 5.Removal of stop words
+* 6.Lemmatization of each word in each row
+
+
+
 ### Primary Unit of Analysis:
 Propaganda based news detection and classification is one of the challenging task.
 <li>(1) Because it is written for a particular purpose and particular group of people and</li>
