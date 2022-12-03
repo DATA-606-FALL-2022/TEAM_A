@@ -131,6 +131,11 @@ We are also going to build deep learning-based models and architectures which in
 6.	Recall
 7.	F1 Scores
 
+### Machine Learning models:
+As we have used 8 m/c learning models each with tfidf and count vectorizer and got 16 different prediction ,so we find out weighted logistic regression model performed well among all.
+##### weighted logistic regression with count vectorizer
+
+![Alt text](https://github.com/DATA-606-FALL-2022/TEAM_A/blob/main/images/Picture2.png)
 
 ### Conclusion and Future works:
 Given the impact this unregulated content has on society, the significance of spotting propaganda is clear. This study intends to develop a system for identifying propaganda utilizing a convolution LTSM Bases Deep Learning Model network. To anticipate accurately, the neural network trains itself over many iterations. This model's efficiency in testing was 97.58% after processing a dataset of more than 52k+ news articles. To demonstrate that the proposed system is superior to the n-gram models, a comparison study is conducted.
