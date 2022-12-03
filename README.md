@@ -120,7 +120,9 @@ We are also going to build deep learning-based models and architectures which in
 2.	Convolutional neural Network
 3.	Attention Models
 4.	BERT
-As the problem statement is a classification problem below are the evaluation metrics will be used.
+
+#### As the problem statement is a classification problem below are the evaluation metrics will be used.
+
 1.	Classification Report
 2.	Confusion Matrix
 3.	Roc Curve
