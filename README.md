@@ -105,6 +105,31 @@ Propaganda based news detection and classification is one of the challenging tas
 * Model comparison and Cross validating the results.
 * Finding a best fit model for prediction.
 
+### Unit of Analysis:
+Our unit of analysis is to classify the propaganda and non-propaganda articles and news present in the dataset using NLP techniques.
+The type of variable present in the dataset is news, articles-based text. We are going to use various NLP techniques to handle text data, such as pre-processing using removal of stop words, stemming, etc., pre-processing based on pre-trained embeddings such as fasttext, glove, word2vec, vectorization using tfidf, count and word encoding.
+There will be various machine learning models going to be built on the vectorized dataset. Models are:
+1.	Naïve Bayes
+2.	Logistic Regression
+3.	Decision Tree
+4.	Random Forest
+5.	AdaBoost
+6.	XGBoost
+We are also going to build deep learning-based models and architectures which involves the algorithms below:
+1.	Recurrent Neural Network
+2.	Convolutional neural Network
+3.	Attention Models
+4.	BERT
+As the problem statement is a classification problem below are the evaluation metrics will be used.
+1.	Classification Report
+2.	Confusion Matrix
+3.	Roc Curve
+4.	AUC Score
+5.	Precision
+6.	Recall
+7.	F1 Scores
+
+
 ### Conclusion and Future works:
 Given the impact this unregulated content has on society, the significance of spotting propaganda is clear. This study intends to develop a system for identifying propaganda utilizing a convolution LTSM Bases Deep Learning Model network. To anticipate accurately, the neural network trains itself over many iterations. This model's efficiency in testing was 97.58% after processing a dataset of more than 52k+ news articles. To demonstrate that the proposed system is superior to the n-gram models, a comparison study is conducted.
 The analysis of propaganda project has a promising future. It can be extended to include categorizing the test piece according to the kinds of propaganda strategies employed. It will improve the model's specificity, broadening its application. In social media and other online platforms where there is a high risk of fake news, propaganda detection can be employed to prevent swaying public opinion for private advantage. To preserve original viewpoints in society and uphold the democratic ideal, news policing will be automated.
