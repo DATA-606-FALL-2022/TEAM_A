@@ -54,12 +54,17 @@ The dataset comprises data extracted from https://zenodo.org/record/3271522#.Yxg
 * 5.Removal of stop words
 * 6.Lemmatization of each word in each row
 
+### Word cloud analysis
+
+A word cloud, also known as a tag cloud, is a graphic representation of text data in the form of tags. These tags are usually single words, and the size and color of the words indicate how important they are. The need to analyze the enormous amounts of text produced by these systems is growing as unstructured data in the form of text continues to see unprecedented development, particularly within the field of social media. By showing the word frequency in the text as a weighted list, a word cloud is a fantastic tool for aiding in the visual interpretation of literature and is helpful in swiftly getting insight into the most important elements in a particular text.
 
 
 ### Primary Unit of Analysis:
 Propaganda based news detection and classification is one of the challenging task.
 <li>(1) Because it is written for a particular purpose and particular group of people and</li>
 <li>(2)Because of similar use of context and linguistic features written for normal news as well. To solve these problems, this project aims to build an efficient web application where user can do a check whether the article, news is based on propaganda or not.</li>
+![Alt text](https://github.com/DATA-606-FALL-2022/TEAM_A/blob/main/images/download%20(3).png)
+![Alt text](https://github.com/DATA-606-FALL-2022/TEAM_A/blob/main/images/download%20(2).png)
 
 
 ### FEATURE SELECTION:
