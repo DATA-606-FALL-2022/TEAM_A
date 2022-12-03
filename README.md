@@ -42,6 +42,7 @@ https://youtu.be/wyj-9mT6p8A</li>
 ### DATASET:
 The dataset comprises data extracted from https://zenodo.org/record/3271522#.Yxg-FuxN2SV .This project aims to build an efficient web based prototype for users which can classify the propaganda based news and articles from the actual ones.
 
+![Alt text](https://github.com/DATA-606-FALL-2022/TEAM_A/blob/main/images/download.png)
 ![Alt text](https://github.com/DATA-606-FALL-2022/TEAM_A/blob/main/images/download%20(1).png)
 
 ### Primary Unit of Analysis:
