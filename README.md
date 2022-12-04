@@ -12,7 +12,7 @@ This project is dedicated to doing some cool data analysis, visualization,eda an
    <li>https://drive.google.com/drive/folders/1vpkOaoSH4hT5S84jvRNeUfhsqiUbY_2_?usp=sharing
  
  ### Link to the PPT:
- [Presntation]https://docs.google.com/presentation/d/1K-DRitsWeXgu9it_Uy2zd_ajrpe3IBVIpLaZRgy--5M/edit#slide=id.g17d5c09ff22_1_38
+ https://docs.google.com/presentation/d/1K-DRitsWeXgu9it_Uy2zd_ajrpe3IBVIpLaZRgy--5M/edit#slide=id.g17d5c09ff22_1_38
 
 ### You tubeVideo link:
 https://youtu.be/wyj-9mT6p8A</li>
